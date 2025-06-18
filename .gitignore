@@ -1,0 +1,12 @@
+# Node dependencies
+frontend/node_modules/
+
+# Python virtual environment
+backend/venv/
+
+# OS and IDE junk
+.DS_Store
+.vscode/
+
+# Environment config (optional)
+.env
